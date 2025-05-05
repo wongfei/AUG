@@ -41,4 +41,6 @@ Start AUG.exe
 
 Press `Shift ~` to display overlay
 
-Press mouse wheel to mark text
+Press `Mouse wheel` to mark text
+
+Press `Pause` to exit
