@@ -1,0 +1,6 @@
+[models]
+https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.bin
+
+[tessdata]
+https://github.com/tesseract-ocr/tessdata/blob/main/eng.traineddata
+https://github.com/tesseract-ocr/tessdata/blob/main/osd.traineddata

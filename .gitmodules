@@ -1,0 +1,47 @@
+[submodule "deps/SDL"]
+	path = deps/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "deps/imgui"]
+	path = deps/imgui
+	url = https://github.com/ocornut/imgui.git
+	ignore = dirty
+[submodule "deps/opencv"]
+	path = deps/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "deps/opencv_contrib"]
+	path = deps/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+[submodule "deps/xxHash"]
+	path = deps/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "deps/tesseract"]
+	path = deps/tesseract
+	url = https://github.com/tesseract-ocr/tesseract.git
+[submodule "deps/leptonica"]
+	path = deps/leptonica
+	url = https://github.com/DanBloomberg/leptonica.git
+[submodule "deps/fmtlog"]
+	path = deps/fmtlog
+	url = https://github.com/MengRao/fmtlog.git
+[submodule "deps/fmt"]
+	path = deps/fmt
+	url = https://github.com/fmtlib/fmt.git
+	ignore = dirty
+[submodule "deps/ggml"]
+	path = deps/ggml
+	url = https://github.com/ggml-org/ggml.git
+[submodule "deps/whisper.cpp"]
+	path = deps/whisper.cpp
+	url = https://github.com/ggerganov/whisper.cpp.git
+[submodule "deps/libsamplerate"]
+	path = deps/libsamplerate
+	url = https://github.com/libsndfile/libsamplerate.git
+[submodule "deps/thread-pool"]
+	path = deps/thread-pool
+	url = https://github.com/bshoshany/thread-pool.git
+[submodule "deps/curl"]
+	path = deps/curl
+	url = https://github.com/curl/curl.git
+[submodule "deps/rapidjson"]
+	path = deps/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
