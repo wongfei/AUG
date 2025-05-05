@@ -2,6 +2,8 @@
 
 Stealth offline AI interview assistant
 
+[![Demo video](data/screenshot.png)](https://www.youtube.com/watch?v=t1ID3GHf4lw)
+
 ## Features
 
 - Record/process interviewer speech in real time
@@ -40,4 +42,3 @@ Start AUG.exe
 Press `Shift ~` to display overlay
 
 Press mouse wheel to mark text
-
